@@ -2,3 +2,4 @@ devops master
 aws solution architech
 terraform certification training
 kubernetes training
+python scripting
