@@ -5,3 +5,5 @@ kubernetes training
 python scripting
 jenkins training 
 argoCD Training
+logic to send eamil
+logic to send data
