@@ -4,3 +4,4 @@ terraform certification training
 kubernetes training
 python scripting
 jenkins training 
+argoCD Training
